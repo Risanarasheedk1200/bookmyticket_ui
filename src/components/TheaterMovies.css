@@ -1,0 +1,33 @@
+.container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .heading {
+    margin-bottom: 20px;
+  }
+  
+  .movie-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .movie-item {
+    margin-bottom: 20px;
+  }
+  
+  .movie-button {
+    padding: 15px 20px;
+    background-color: #cddada; 
+    color: #333; 
+    border: none;
+    border-radius: 10px; 
+    cursor: pointer;
+    transition: background-color 0.3s ease; 
+  }
+  
+  .movie-button:hover {
+    background-color: #dcdcdc; 
+  }
+  

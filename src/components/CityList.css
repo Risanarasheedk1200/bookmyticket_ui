@@ -1,0 +1,17 @@
+.container {
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    padding-top: 20px;
+  }
+  
+  .heading {
+    margin-bottom: 20px;
+  }
+  
+  .select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
